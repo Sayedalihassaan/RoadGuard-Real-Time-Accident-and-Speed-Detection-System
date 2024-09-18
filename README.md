@@ -1,8 +1,7 @@
 
 # RoadGuard Real-Time Accident and Speed Detection System 🚗💥🏎️
 
-![RoadGuard Banner]![image](https://github.com/user-attachments/assets/08e64108-d3f5-4468-870e-1d79a176bc57)
-) <!-- You can add a banner image or screenshot of the project -->
+![image](https://github.com/user-attachments/assets/08e64108-d3f5-4468-870e-1d79a176bc57)) 
 
 ## Overview
 The **RoadGuard Real-Time Accident and Speed Detection System** is a computer vision-based system designed to monitor vehicular traffic and detect accidents in real-time. By utilizing **YOLOv8** object detection and **OpenCV**, this system can:
